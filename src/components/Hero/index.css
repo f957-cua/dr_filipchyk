@@ -1,0 +1,24 @@
+.Hero {
+  position: relative;
+  display: block;
+
+  width: auto;
+  height: 500px;
+
+  background-image: url(../../../public/img/main-mobile.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.Hero p {
+  position: absolute;
+
+  margin: 0 20px 10px;
+  right: 0;
+  bottom: 0;
+}
+
+.Foto {
+  width: 200px;
+  height: 500px;
+}

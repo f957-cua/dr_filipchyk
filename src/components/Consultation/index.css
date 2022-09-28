@@ -1,0 +1,10 @@
+.Consultation {
+  margin: 10px 20px;
+  border: solid #c999b1 4px;
+  border-radius: 12px;
+}
+
+.Consultation h3, p {
+  text-align: center;
+  margin: 10px 0;
+}
