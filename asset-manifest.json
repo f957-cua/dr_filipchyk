@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dr_filipchyk/static/css/main.d838e6c4.css",
+    "main.js": "/dr_filipchyk/static/js/main.5cde6bef.js",
+    "static/media/main-mobile.jpeg": "/dr_filipchyk/static/media/main-mobile.77f7e17bc2a58020bf34.jpeg",
+    "static/media/sprite.svg": "/dr_filipchyk/static/media/sprite.9a56e296690bf718b5db78306d23900a.svg",
+    "index.html": "/dr_filipchyk/index.html",
+    "main.d838e6c4.css.map": "/dr_filipchyk/static/css/main.d838e6c4.css.map",
+    "main.5cde6bef.js.map": "/dr_filipchyk/static/js/main.5cde6bef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d838e6c4.css",
+    "static/js/main.5cde6bef.js"
+  ]
+}
